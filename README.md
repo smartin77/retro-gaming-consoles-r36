@@ -1,2 +1,3 @@
 ## 📚 Project Wiki
-For detailed setup guides, compatibility lists, and troubleshooting tips, visit the [Retro Gaming Consoles R36S/H Wiki](https://github.com/smartin77/retro-gaming-consoles-r36/wiki).
+This project is a guide for the [R36H and R36S handheld retro consoles](https://github.com/smartin77/retro-gaming-consoles-r36/wiki).  
+Since I own an Boyhom R36H and have gone through the process of updating, configuring, and customizing it, I’d like to share my findings and knowledge gathered along the way.
